@@ -1,7 +1,7 @@
 html {
   background-image: url(download.png);
 }
-  .bulk {
+body {
     width: 80%;
     background-color: burlywood;
     margin-right: auto;
@@ -9,4 +9,7 @@ html {
   }
 h1, h2, h3 {
   text-align: center;
+}
+p {
+  text-align: left;
 }
