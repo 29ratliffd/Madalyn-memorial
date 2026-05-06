@@ -14,8 +14,7 @@ p {
   text-align: left;
   width: 50%;
 }
-img {
-  text-align: right;
+.kid {
+  width: 70p;
+  height: 100p;
 }
-figcaption {
-  text-align: img;
