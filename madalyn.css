@@ -7,6 +7,6 @@ html {
     margin-right: auto;
     margin-left: auto;
   }
-.topic {
+h1, h2, h3 {
   text-align: center;
 }
