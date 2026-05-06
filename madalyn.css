@@ -1,4 +1,9 @@
 body {
   background-image: url(download.png);
 }
-  
+  .bulk {
+    width: 80%;
+    background-color: cream;
+    margin-right: auto;
+    margin-left: auto;
+  }
