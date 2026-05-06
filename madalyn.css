@@ -17,3 +17,5 @@ p {
 img {
   text-align: right;
 }
+figcaption {
+  text-align: img;
