@@ -16,8 +16,9 @@ p {
 }
 .kid {
   width: 70p;
-  height: 100p;
+  height: 70p;
 }
 .kid, p{
 display: inline-block;
 }
+
