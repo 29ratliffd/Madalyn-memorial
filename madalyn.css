@@ -13,10 +13,11 @@ h1, h2, h3 {
 p {
   text-align: left;
   width: 50%;
+  font-size: 25px;
 }
 .kid {
-  width: 70p;
-  height: 70p;
+  width: 70px;
+  height: 70px;
 }
 .kid, p{
 display: inline-block;
