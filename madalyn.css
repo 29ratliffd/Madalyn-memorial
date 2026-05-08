@@ -25,4 +25,6 @@ p {
 .kid, p, figcaption{
 display: inline-block;
 }
+  figcaption {
+    color: white;
 
