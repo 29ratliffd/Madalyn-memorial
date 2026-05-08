@@ -15,6 +15,9 @@ p {
   width: 50%;
   font-size: 50px;
 }
+.kid {
+  text-align: right;
+  width: 50%;
 .kid, p,{
 display: inline-block;
 }
