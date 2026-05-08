@@ -11,6 +11,7 @@ h1, h2, h3 {
   text-align: center;
 }
 p {
+  color: white;
   text-align: left;
   width: 50%;
   font-size: 25px;
@@ -18,7 +19,7 @@ p {
 .kid {
   text-align: right;
   width: 50%;
-.kid, p,{
+.kid, p, figcaption{
 display: inline-block;
 }
 
