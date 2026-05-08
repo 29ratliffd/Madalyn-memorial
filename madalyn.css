@@ -15,11 +15,7 @@ p {
   width: 50%;
   font-size: 50px;
 }
-.kid {
-  width: 70px;
-  height: 70px;
-}
-.kid, p{
+.kid, p,{
 display: inline-block;
 }
 
