@@ -19,10 +19,10 @@ p {
   width: 50%;
   font-size: 25px;
 }
-.kid {
+imgsrc {
   text-align: right;
   width: 50%;
-.kid, p, figcaption{
+imgsrc, p, figcaption{
 display: inline-block;
 }
   figcaption {
